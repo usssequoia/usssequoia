@@ -1,0 +1,19 @@
+main:
+  - title: "About"
+    url: /about/
+#  - title: "Mission Logs"
+#    url: /year-archive/
+#  - title: "Categories"
+#    url: /categories/
+#  - title: "Tags"
+#    url: /tags/
+#  - title: "Pages"
+#    url: /page-archive/
+#  - title: "Collections"
+#    url: /collection-archive/
+#  - title: "External Link"
+#    url: https://google.com
+#    target: _blank
+  - title: "The Fleet"
+    url: https://startrekthefleet.weebly.com
+    target: _blank
