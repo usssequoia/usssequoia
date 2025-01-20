@@ -4,15 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+We are a social club for people in the greater San Francisco Bay Area who enjoy Star Trek, cosplay, and costume making. We meet up together both in and out of costume to take photos, see movies, work on projects together, sightseeing, and more. Our ship is a Sombra class vessel, set in the same time period as Strange New Worlds, so our coordinated uniforms and costumes are contemporary with that era of Star Trek. However, we enjoy and discuss all eras, so please come join us no matter which trek is your personal favorite!
