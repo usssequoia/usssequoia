@@ -7,10 +7,10 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-# (Commented out line 2025-01-19)
+# (Commented out line below 2025-01-19)
 # gem "jekyll", "~> 4.3.4"  # See below - "github-pages"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
-# (Commented out line 2025-01-19)
+# (Commented out line below 2025-01-19)
 # gem "minima", "~> 2.5"
 # This theme looks pretty nice, but is geared a little towards portfolios.
 # https://github.com/mmistakes/jekyll-theme-basically-basic
@@ -21,8 +21,7 @@ gem "minimal-mistakes-jekyll"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
-# (Uncommented line 2025-01-19)
-gem "github-pages", group: :jekyll_plugins
+gem "github-pages", group: :jekyll_plugins  # (Uncommented line 2025-01-19)
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"

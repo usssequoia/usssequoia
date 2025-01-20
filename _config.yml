@@ -33,8 +33,8 @@ github_username: usssequoia
 
 # Build settings
 # https://github.com/mmistakes/minimal-mistakes
-#theme: minimal-mistakes-jekyll
-remote_theme: minimal-mistakes-jekyll
+theme: minimal-mistakes-jekyll
+#remote_theme: minimal-mistakes-jekyll
 #plugins:
 #  - jekyll-feed
 
@@ -68,8 +68,8 @@ rtl                      : # true, false (default) # turns direction of the page
 # title                  : "Site Title"  # set above.
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "USS Sequoia"
+description              : "San Francisco's chapter of the The Fleet."
 # url                    : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"  # set above.
 # baseurl                : # the subpath of your site, e.g. "/blog"  # set above.
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -163,7 +163,7 @@ analytics:
     anonymize_ip         : # true, false (default)
 
 
-# Site Author
+# Site Author  # 2025-01-19: Commented out section. This can be used for a default global site author. Reenable later see https://mmistakes.github.io/minimal-mistakes/docs/authors/
 #author:
 #  name             : "Your Name"
 #  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
@@ -281,7 +281,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Los_Angeles  # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Pagination with jekyll-paginate
@@ -365,9 +365,14 @@ compress_html:
     envs: development
 
 
-# Defaults
+# Defaults for each processed file.
+# Defaults can be applied to a restricted scope
+# https://jekyllrb.com/docs/configuration/front-matter-defaults/
+# Available types are: pages, posts, drafts, as well as any known collection.
+#   Collections: https://jekyllrb.com/docs/collections/
 defaults:
-  # _posts
+  # Posts https://jekyllrb.com/docs/posts/
+  # _posts - IE: blog posts.
   - scope:
       path: ""
       type: posts
@@ -378,11 +383,11 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
+  # Pages: https://jekyllrb.com/docs/pages/
+  # _pages - IE: files in the base directory and below that are pages type.
   - scope:
-      path: "_pages"
+      path: ""
       type: pages
     values:
       layout: single
       author_profile: false
-  
