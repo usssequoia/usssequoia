@@ -1,6 +1,17 @@
 # How To Guide
 
 ## Website development: Tips and Tricks
+
+### Base theme
+
+* The base theme used is called [minimal mistakes](https://github.com/mmistakes/minimal-mistakes)
+  * The reference documentation for it is available here: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  * Example posts can be viewed here: https://mmistakes.github.io/minimal-mistakes/year-archive/
+  * By date, these posts are here: https://github.com/mmistakes/minimal-mistakes/blob/master/docs/_posts/
+  * For example: https://mmistakes.github.io/minimal-mistakes/markup/markup-image-alignment/ has the source code  [docs/_posts/2013-01-10-markup-image-alignment.md](https://github.com/mmistakes/minimal-mistakes/blob/master/docs/_posts/2013-01-10-markup-image-alignment.md?plain=1)
+
+
+
 ### Git
 
 This git repository is configured to run a website build workflow any time commits are pushed to the "web" branch on github. A second "main" branch also exists, and can be used for development improvements etc.

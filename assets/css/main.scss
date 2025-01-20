@@ -1,0 +1,11 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+@import "variable-overrides"; // This file can be used for setting override values.
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+@import "extras"; // This file loads extra overrides and additional classes
