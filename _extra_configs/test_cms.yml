@@ -1,0 +1,8 @@
+# This is a config overlay file. Use with:
+# bundle exec jekyll serve --config ./_config.yml,./_extra_configs/test_cms.yml
+
+# Admin Settings
+# decap_cms_backend_mode: str ( github | local | * ). Anything other than
+# "github" or "local" will enable the test backend.
+# This setting directly affects the /admin/config.yml configuration.
+decap_cms_backend_mode: test
