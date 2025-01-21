@@ -14,11 +14,18 @@ New Worlds, so our coordinated uniforms and costumes are contemporary with that
 era of Star Trek. However, we enjoy and discuss all eras, so please come join 
 us no matter which trek is your personal favorite!
 
-## Contact Us:
+### Contact Us:
 
 [Email us here](mailto:{{site.email}}?subject=Hello)
 
-#### Links
+### Links
+
+![image-right](/assets/images/qr_code.svg){: .align-right}
+
+**[{{site.name}}]({{site.url}})**
+{: .text-center .text__type-size-2}
+
+---------
 
 {:refdef: .small}
 [Build information](/buildinfo/) | [sitemap](/sitemap/)
