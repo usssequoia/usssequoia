@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Hey San Francisco! Love Star Trek? Want to gush with folks about ST? Enjoy costuming up
   (or down, no presh)? Then you should fly with us!!
 baseurl: "" # the subpath of your site, e.g. /blog
-domain: usssequoia.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: "https://usssequoia.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+domain: usssequoiathefleet.com       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: "https://usssequoiathefleet.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: 
 github_username: usssequoia
 #instagram_username: usssequoia  # https://www.instagram.com/usssequoia
@@ -72,7 +72,7 @@ name                     : "USS Sequoia"
 description              : "San Francisco's chapter of the The Fleet."
 # url                    : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"  # set above.
 # baseurl                : # the subpath of your site, e.g. "/blog"  # set above.
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : usssequoia/usssequoia  # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -143,7 +143,7 @@ facebook:
   username               : https://www.facebook.com/groups/1354360541894947/
   app_id                 :
   publisher              :
-og_image                 :  /assets/images/social_avatar.jpg  # Open Graph/Twitter default site image
+og_image                 : /assets/images/social_avatar.jpg  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -154,6 +154,7 @@ social:
     - "https://www.facebook.com/groups/1354360541894947"
     - "https://instagram.com/usssequoia/"
     - "https://www.tiktok.com/@usssequoia"
+    - "https://linqapp.com/usssequoia"
 
 # Analytics
 analytics:
