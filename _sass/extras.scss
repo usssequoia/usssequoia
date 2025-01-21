@@ -8,3 +8,42 @@
 .page__footer-copyright {
   font-size: $type-size-8;
 }
+
+/* 
+ * Manual Type Size
+ * These type size classes can be used to manually access the type scale
+ * variables at
+ * minimal-mistakes-kekyll/_sass/minimal-mistakes/_variables.scss from 1 to 8.
+ * 8 is small (around 10 pixels tall), 1 is huge (around 39 pixels tall)
+ */
+.text__type-size-1 {
+  font-size: $type-size-1 !important;
+}
+
+.text__type-size-2 {
+  font-size: $type-size-2 !important;
+}
+
+.text__type-size-3 {
+  font-size: $type-size-3 !important;
+}
+
+.text__type-size-4 {
+  font-size: $type-size-4 !important;
+}
+
+.text__type-size-5 {
+  font-size: $type-size-5 !important;
+}
+
+.text__type-size-6 {
+  font-size: $type-size-6 !important;
+}
+
+.text__type-size-7 {
+  font-size: $type-size-7 !important;
+}
+
+.text__type-size-8 {
+  font-size: $type-size-8 !important;
+}

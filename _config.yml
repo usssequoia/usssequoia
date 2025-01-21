@@ -62,6 +62,12 @@ theme: minimal-mistakes-jekyll
 # Copied from: minimal-mistakes/blob/master/_config.yml
 minimal_mistakes_skin    : "air" #  "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
+# Admin Settings
+# decap_cms_backend_mode: str ( github | local | * ). Anything other than
+# "github" or "local" will enable the test backend.
+# This setting directly affects the /admin/config.yml configuration.
+decap_cms_backend_mode: github
+
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages

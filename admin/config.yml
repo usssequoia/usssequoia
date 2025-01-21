@@ -1,0 +1,96 @@
+---
+# This file uses front matter to enable processing by jekyll (the dashes 
+# are enough). Confusingly, this is a yml file with yml front matter.
+#
+# Note that a templating system used here conflicts with the liquid processing.
+# To get around this, if you need a literal {{ or }} in your output, they can
+# be wrapped in {% raw %}{{{% endraw %} or wrap a larger block with those raw
+# tags. See: https://shopify.github.io/liquid/tags/template/#raw
+#
+# search: false - This disables this file in the search index.
+search: false
+# layout: "". Disables any layout from being applied.
+layout: 
+---
+# config.yml for netlify's decap-cms
+# https://decapcms.org/docs/configuration-options/
+# https://decapcms.org/docs/jekyll/
+
+# Backends and related settings.
+# See https://decapcms.org/docs/backends-overview/
+
+
+{% if site.decap_cms_backend_mode == "github" %}
+# The Github backend.
+# https://decapcms.org/docs/github-backend/
+backend:
+  name: github
+  # repo: org/repo. Path to your GitHub repository.
+  repo: usssequoia/usssequoia
+  # branch: str, optional, defaults to master. This is the github branch where
+  # published content is stored. All CMS commits and PRs are made to this
+  # branch.
+  branch: web
+  # api_root: The API endpoint. Only necessary in certain cases, like with
+  # GitHub Enterprise or self-hosted GitLab/Gitea. Ex: https://api.github.com
+  # for GitHub, https://gitlab.com/api/v4 for GitLab.
+  # api_root:
+
+# publish_mode: str ( simple | editorial_workflow ), default simple.
+# This enables a commit-to-branch drafting system that will create a separate
+# branch with a pull request to the specified branch for publishing.
+# Editorial mode doesn't work with the local backend according to the docs.
+# See: https://decapcms.org/docs/editorial-workflows/
+publish_mode: editorial_workflow
+
+
+{% elsif site.decap_cms_backend_mode == "local" %}
+# The "experimental" local git repository editor.
+# See: https://decapcms.org/docs/working-with-a-local-git-repository/
+backend:
+  name: git-gateway
+# local_backend: These is for local git backends.
+local_backend:
+  # url: str. When using a custom proxy server port specify it here.
+  url: http://localhost:8082/api/v1
+  # allowed_hosts: list of ip-addresses. When accessing the local site from a
+  # host other than 'localhost' or '127.0.0.1'
+  #   allowed_hosts: []
+
+# publish_mode: str ( simple | editorial_workflow ), default simple.
+# This enables a commit-to-branch drafting system that will create a separate
+# branch with a pull request to the specified branch for publishing.
+# Editorial mode doesn't work with the local backend according to the docs.
+# See: https://decapcms.org/docs/editorial-workflows/
+publish_mode: simple
+
+
+{% else %}
+# This is the test / demo server. It can't write anywhere and doesn't look at
+# git or the local file system. It should still launch with custom settings.
+# https://decapcms.org/docs/test-backend/
+backend:
+  name: test-repo
+
+{% endif %}
+
+# media_folder: str. Where media files will end up if uploaded in the editor.
+media_folder: 'assets/uploads'
+# This enables a commit-to-branch drafting system that will create a pull request
+# https://decapcms.org/docs/editorial-workflows/
+site_url: https://usssequoiathefleet.com
+# other settings
+# logo_url: https://your-site.com/images/logo.svg  # A url to an image for the cms to use at the top of the login page.
+collections:
+  - name: 'posts'
+    label: 'Posts'
+    folder: '_posts/'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
