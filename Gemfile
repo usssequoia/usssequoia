@@ -9,6 +9,7 @@ source "https://rubygems.org"
 # Happy Jekylling!
 # (Commented out line below 2025-01-19)
 # gem "jekyll", "~> 4.3.4"  # See below - "github-pages"
+
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 # (Commented out line below 2025-01-19)
 # gem "minima", "~> 2.5"
