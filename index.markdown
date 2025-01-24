@@ -6,6 +6,7 @@ layout: splash
 #  Fish shell: `date -Iseconds -r  ( date '+%s' )` 
 #  Bash / zsh shell: `date -Iseconds -r  "$( date '+%s' )"` 
 date: 2025-01-19T15:47:34-08:00
+title: Home
 header:
   image: /assets/images/splash.jpg
 ---
@@ -35,7 +36,7 @@ You can find us on:
 * [Instagram](https://www.instagram.com/usssequoia) 
 * [Facebook](https://www.facebook.com/groups/1354360541894947/)
 * [Discord](https://discord.gg/butyvBX9xF). 
-* We also have a [Mailing List](https://groups.google.com/u/0/g/usssequoiathefleet-info), if you're the retro kind of cool. 
+* We also have a [Mailing List](https://groups.google.com/u/0/g/usssequoiacomms), if you're the retro kind of cool. 
 
 ## Upcoming Events
 ### Stardate 012425-012725: ST:SF

@@ -20,13 +20,19 @@ us no matter which trek is your personal favorite!
 
 ### Links
 
+[Join our mailing list!](mailto:usssequoiacomms+subscribe@googlegroups.com)
+
+---
+
 ![image-right](/assets/images/qr_code.svg){: .align-right}
 
-**[{{site.name}}]({{site.url}})**
-{: .text-center .text__type-size-2}
+**[{{site.url}}]({{site.url}})**{: .text-center .text__type-size-2}  
+**{{site.title}}**: {{site.subtitle}}
+{: .text-center .text__type-size-4}
 
 ---------
 
 {:refdef: .small}
-[Build information](/buildinfo/) | [sitemap](/sitemap/)
+
+[Build information](/buildinfo/) | [Sitemap](/sitemap/) | [QR-code](/qr/)
 {: refdef}
