@@ -11,6 +11,8 @@ main:
 #    url: /page-archive/
 #  - title: "Collections"
 #    url: /collection-archive/
+#  - title: "Uniform Guidelines"
+#    url: /uniform/
 #  - title: "External Link"
 #    url: https://google.com
 #    target: _blank
@@ -18,7 +20,4 @@ main:
     url: /senior_officers/
   - title: "The Fleet"
     url: https://startrekthefleet.weebly.com
-    target: _blank
-  - title: "The Fleet Handbook"
-    url: https://startrekthefleet.weebly.com/handbook.html
     target: _blank
