@@ -19,5 +19,8 @@ Due to variation in vendors and in home-fabricated uniforms, there will be some 
 
 ### Class A 
 In addition to the Standard Duty Uniform (which is the recommended uniform), there are eight identified variants that may be situationally appropriate for a costumed event based on Rank, Division, and other factors.
+  {% comment %}
+  I'd love to be able to separate the Class A pages from the Class B pages by this headings, but I don't know if there's a layout that makes that possible.
+  {% endcomment %}
 
 ### Class B
