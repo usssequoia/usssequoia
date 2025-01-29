@@ -1,17 +1,4 @@
----
-# This file uses front matter to enable processing by jekyll (the dashes 
-# are enough). Confusingly, this is a yml file with yml front matter.
-#
-# Note that a templating system used here conflicts with the liquid processing.
-# To get around this, if you need a literal {{ or }} in your output, they can
-# be wrapped in {% raw %}{{{% endraw %} or wrap a larger block with those raw
-# tags. See: https://shopify.github.io/liquid/tags/template/#raw
-#
-# search: false - This disables this file in the search index.
-search: false
-# layout: "". Disables any layout from being applied.
-layout: 
----
-
 # Am I doing this right? Almost certainly not. But the idea here is to store some of the repeated strings of text 
 # (e.g., the boots are going to be largely the same for every uniform, so I'll put one string in here and reference it in every page, so that if I edit it I only need to edit it once)
+
+
