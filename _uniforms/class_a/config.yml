@@ -1,4 +1,27 @@
 # Am I doing this right? Almost certainly not. But the idea here is to store some of the repeated strings of text 
-# (e.g., the boots are going to be largely the same for every uniform, so I'll put one string in here and reference it in every page, so that if I edit it I only need to edit it once)
+# (e.g., the boots are going to be largely the same for every uniform variant, so I'll put one string in here and reference it in every page, so that if I edit it I only need to edit it once
+# and have the changes propagate to all other uniform pages)
+# Now the question is, how exactly do I reference this? Would site.standard.pants.requirements work?
 
-
+standard:
+  pants:
+    requirements             : 
+    optional                 :
+    vendor                   : 
+  boots:
+    optional                 : "Black riding boots with a cuban heel"
+    fluevog                  : "Fluevog"
+    fluevog_description      : "These boots are identical to the ones used in Star Trek: Strange New Worlds. There have been some reports that these boots fit tight in the calf and are narrow, though, so be cautious if you believe any of those might be an issue."
+  rank:
+    optional                 : 
+  insignia:
+    requirement              :
+    optional                 :
+    cosermart                : "Cosermart"
+    cosermart_description    : 
+    qmx                      :
+    qmx_description          :
+    fansets                  :
+    fansets_description      :
+    unimatrixred             :
+    unimatrixred_description :
