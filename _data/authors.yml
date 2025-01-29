@@ -4,7 +4,7 @@
 
 Isabel Roybal:
   name        : "Isabel Roybal"
-  bio         : "Commander (Ship Captain)"
+  bio         : "Captain & Communications Officer\nCommander"
   home        : /senior_officers/isabel_r/
   #avatar      : "/assets/images/authors/isabel_r.jpg"
   #links:
@@ -20,19 +20,23 @@ Isabel Roybal:
 
 Jocelyn Cliff:
   name        : "Jocelyn Cliff"
-  bio         : "First Officer"
+  bio         : "First Officer\nLieutenant Junior Grade"
   avatar      : "/assets/images/authors/jocelyn_c.jpg"
   home        : /senior_officers/jocelyn_c/
 
 Blair Cliff:
   name        : "Blair Cliff"
-  bio         : "Quartermaster"
+  bio         : "Quartermaster\nLieutenant Junior Grade"
   avatar      : "/assets/images/authors/blair_c.jpg"
   home        : /senior_officers/blair_c/
+  links:
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/did:plc:irewzskd7ypcve3svfpiiadj"
 
 Tracey Simmons:
   name        : "Tracey Simmons"
-  bio         : "Chief Medical Officer"
+  bio         : "Chief Medical Officer\nLieutenant Junior Grade"
   avatar      : "/assets/images/authors/tracey_s.jpg"
   home        : /senior_officers/tracey_s/
   links:
@@ -48,10 +52,15 @@ Tracey Simmons:
 
 Kenzy Coane:
   name        : "Kenzy Coane"
-  bio         : "Chief Engineer"
+  bio         : "Chief Engineer\nLieutenant Junior Grade"
   home        : /senior_officers/kenzy_c/
 
 Lawrence Chin:
   name        : "Lawrence Chin"
-  bio         : "Chief Engineer"
+  bio         : "Second Officer & Operations Officer\nLieutenant"
   home        : /senior_officers/lawrence_c/
+
+Richard Newton:
+  name        : "Richard Newton"
+  bio         : "Helmsman\nLieutenant Junior Grade"
+  home        : /senior_officers/richard_n/
