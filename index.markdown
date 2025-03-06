@@ -39,15 +39,40 @@ You can find us on:
 * We also have a [Mailing List](https://groups.google.com/u/0/g/usssequoiacomms), if you're the retro kind of cool. 
 
 ## Upcoming Events
-### Stardate 020725: Sequoia Discord Hangout
+### Stardate 030725: Sequoia Discord Hangout
+**Location:** [Discord](https://discord.gg/butyvBX9xF)  
+**Time:** 7:00 PM  
 Our Biweekly (that's every other week, not twice a week) discord hangout. We typically open with some ship planning, and then transition into either watching something or playing something.
 
-### Stardate 020825: Napa Lighted Art Festival
-Join the crew in Napa for a tour of the miraculous festival of lights!
-This will be an evening of walking around downtown Napa. Wear warm layers and comfortable shoes, or have your mobility aids at the ready! We will meet at the parking lot by the Oxbow shopping center and head towards Main Street. Trek apparel or uniforms encouraged but not at all required.  
+### Stardate 030825: Pacifica Beach Cleanup
+**Location:** Sharp Park Beach, Pacifica  
+**Time:** 9:00 AM  
+Let's help clean up the beach in Pacifica! Here's how:  
+•Please go to the following website to read what to expect that day (bringing spf, gloves, etc). Everything you need to know is ON THIS WEBSITE [https://www.pacificbeachcoalition.org/next-beach-cleanup.../](https://www.pacificbeachcoalition.org/next-beach-cleanup-sharp-park/)  
+•Everyone who wants to go should fill out one of these forms so that the clean up crew knows how much gear to bring for us! [https://docs.google.com/.../1FAIpQLSfVdK6L3JcCl4.../viewform](https://docs.google.com/forms/d/e/1FAIpQLSfVdK6L3JcCl4fK6JQl05L5QQGi-fEF84LYToB3M5pZpeN-6Q/viewform)  
+•Everyone who attends should be in a SNW uniform for this event, weather permitting of course. Bundle up if you must and don't die sweating in that polyester!  
+•Let's start a conversation on positive attitudes, carpooling and meeting spots (there is a map on the website where the Cap'ns of cleanup meet! [https://www.pacificbeachcoalition.org/next-beach-cleanup.../](https://www.pacificbeachcoalition.org/next-beach-cleanup-sharp-park/)).  
+•It is only 9am-11am, PLEASE BE ON TIME! The beach needs us.
 
-### Stardate 021125: Star Trek Trivia
-Join us again at Star Trek Trivia night, hosted this time at Mothership Bar in San Francisco, on February 11th. The actual event starts at 7, but these trivia nights tend to fill up, so I recommend getting there by 6:30 to secure parking and a table.
-Wearing a uniform is strictly optional. There have historically been a good amount of people at these events in uniform, so you'll fit in either way. It's unclear whether it will be held indoors or outside, so be prepared for either.
-It is unclear what the parking situation will be there, so this description will be updated as we find out more. The closest BART station is the 24th Street Mission Station.
-Everyone is welcome, no matter how good you think you will be at the trivia. We're here first and foremost to have a good time - winning will just be a bonus. Team size is limited to 6, so if we have more attendees we may need to split into multiple groups.
+### Stardate 031825: Captain's Log Listen-In Book Club
+**Location:** [Discord](https://discord.gg/butyvBX9xF)  
+**Time:** 7:00 PM  
+The name of the club is Captain's Log Listen-in.  
+-we meet the 3rd Tuesday of every 3rd month.  
+-The group decided on Star Trek: New Frontier Book 1- House of Cards.  
+-The book is available as an eBook, physical, or at local libraries.
+
+### Stardate 032225: CarrierCon
+**Location:** USS Hornet, 707 W Hornet Avenue, Alameda  
+**Time:** 10:00 AM  
+It’s Anchors Aweigh for Carrier Con 2025!⚓️  
+Get ready to cast off again for another year aboard the USS Hornet for the most unique convention in the world! Prepare for even more amazing panels, meet ups, and vendors! We can’t wait to welcome you all aboard!
+
+### Stardate 042225: Star Trek Trivia
+**Location:** Mothership Bar, 3152 Mission Street, San Francisco  
+**Time:** 7:00 PM  
+Join us again at Star Trek Trivia night. The actual event starts at 7, but these trivia nights tend to fill up, so I recommend getting there by 6:30 to secure parking and a table.  
+Wearing a uniform is strictly optional. There have historically been a good amount of people at these events in uniform, so you'll fit in either way. Seating is very limited indoors. There are outdoor heaters, but it's still recommended to bring some outerwear in case you get cold. Seating at the tables is also limited, so it's a good idea to bring a travel chair or travel stool.  
+There is a stand in the back run by Gax that serves quesadillas and burgers. There is also an excellent barbeque place across the street from the bar.  
+The three closest parking lots on Google Maps are either closed at that time or reserved for other businesses, so they're unusable. The closest viable garage is the Mission-Bartlett Garage at 3255 21st Street, an 18 minute walk away. I highly recommend either using public transit, or being ready to walk a long distance. The closest BART station is the 24th Street Mission Station.  
+Everyone is welcome, no matter how good you think you will be at the trivia. We're here first and foremost to have a good time - winning will just be a bonus. There's no hard limit to team size, go ahead and join us!  
