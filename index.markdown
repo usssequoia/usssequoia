@@ -39,15 +39,9 @@ You can find us on:
 * We also have a [Mailing List](https://groups.google.com/u/0/g/usssequoiacomms), if you're the retro kind of cool. 
 
 ## Upcoming Events
-### Stardate 020725: Sequoia Discord Hangout
-Our Biweekly (that's every other week, not twice a week) discord hangout. We typically open with some ship planning, and then transition into either watching something or playing something.
+### Stardate 012425-012725: ST:SF
+Creation Entertainment is bringing their Trek Tour convention experience to the Hyatt Burlingame. Come join us for all the fun January 24-27, 2025. The USS Sequoia will have a table at the event for recruitment, so please feel free to stop by and say hello. [Tickets are available here.](https://www.creationent.com/cal/st_sf/index.html)  
 
 ### Stardate 020825: Napa Lighted Art Festival
 Join the crew in Napa for a tour of the miraculous festival of lights!
 This will be an evening of walking around downtown Napa. Wear warm layers and comfortable shoes, or have your mobility aids at the ready! We will meet at the parking lot by the Oxbow shopping center and head towards Main Street. Trek apparel or uniforms encouraged but not at all required.  
-
-### Stardate 021125: Star Trek Trivia
-Join us again at Star Trek Trivia night, hosted this time at Mothership Bar in San Francisco, on February 11th. The actual event starts at 7, but these trivia nights tend to fill up, so I recommend getting there by 6:30 to secure parking and a table.
-Wearing a uniform is strictly optional. There have historically been a good amount of people at these events in uniform, so you'll fit in either way. It's unclear whether it will be held indoors or outside, so be prepared for either.
-It is unclear what the parking situation will be there, so this description will be updated as we find out more. The closest BART station is the 24th Street Mission Station.
-Everyone is welcome, no matter how good you think you will be at the trivia. We're here first and foremost to have a good time - winning will just be a bonus. Team size is limited to 6, so if we have more attendees we may need to split into multiple groups.
