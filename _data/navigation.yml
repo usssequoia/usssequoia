@@ -11,8 +11,6 @@ main:
 #    url: /page-archive/
 #  - title: "Collections"
 #    url: /collection-archive/
-#  - title: "Uniform Guidelines"
-#    url: /uniform/
 #  - title: "External Link"
 #    url: https://google.com
 #    target: _blank
