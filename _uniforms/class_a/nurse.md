@@ -1,5 +1,0 @@
----
-date: 
-title: Nurse Jumpsuit
----
-

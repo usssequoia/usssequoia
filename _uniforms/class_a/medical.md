@@ -1,5 +1,0 @@
----
-date: 
-title: Medical Uniform
----
-
