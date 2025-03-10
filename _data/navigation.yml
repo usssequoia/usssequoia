@@ -14,10 +14,10 @@ main:
 #  - title: "External Link"
 #    url: https://google.com
 #    target: _blank
-#  - title: "Uniform Guidelines"
-#    url: /uniform/
   - title: "Officer Bios"
     url: /senior_officers/
+  - title: "Uniform Guidelines"
+    url: /uniforms/
   - title: "The Fleet"
     url: https://startrekthefleet.weebly.com
     target: _blank

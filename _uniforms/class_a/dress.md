@@ -1,5 +1,0 @@
----
-date: 
-title: Dress Uniform
----
-
