@@ -24,6 +24,18 @@ us no matter which trek is your personal favorite!
 
 ---
 
+## About THE FLEET
+
+![THE FLEET logo: the words "The Fleet" followed by "A Star Trek Costuming Fan Group". A rainbow is behind both bits of text, with three colors, each color respectively labeled after the three pillars of the group: costuming, fandom, and charity](/assets/images/the-fleet-logo-01.png)
+
+Covering ALL eras of the Star Trek franchise, THE FLEET is a growing fan organization that focuses on costuming, giving back to the community through volunteer work with different charity organizations, and most importantly, having fun!
+
+*"Boldly venturing through the frontiers of costuming, fandom, and charity."*
+
+[Fleet Handbook](https://startrekthefleet.weebly.com/handbook.html)
+
+---
+
 ![image-right](/assets/images/qr_code.svg){: .align-right}
 
 **[{{site.url}}]({{site.url}})**{: .text-center .text__type-size-2}  
