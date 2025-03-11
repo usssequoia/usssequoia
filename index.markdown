@@ -35,7 +35,7 @@ You can find us on:
 * [BlueSky](https://bsky.app/profile/usssequoia.bsky.social)
 * [Instagram](https://www.instagram.com/usssequoia) 
 * [Facebook](https://www.facebook.com/groups/1354360541894947/)
-* [Discord](https://discord.gg/butyvBX9xF). 
+* [Discord](https://discord.gg/butyvBX9xF)
 * We also have a [Mailing List](https://groups.google.com/u/0/g/usssequoiacomms), if you're the retro kind of cool. 
 
 ## Upcoming Events
