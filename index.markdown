@@ -44,16 +44,6 @@ You can find us on:
 **Time:** 7:00 PM  
 Our Biweekly (that's every other week, not twice a week) discord hangout. We typically open with some ship planning, and then transition into either watching something or playing something.
 
-### Stardate 030825: Pacifica Beach Cleanup
-**Location:** Sharp Park Beach, Pacifica  
-**Time:** 9:00 AM  
-Let's help clean up the beach in Pacifica! Here's how:  
-•Please go to the following website to read what to expect that day (bringing spf, gloves, etc). Everything you need to know is ON THIS WEBSITE [https://www.pacificbeachcoalition.org/next-beach-cleanup.../](https://www.pacificbeachcoalition.org/next-beach-cleanup-sharp-park/)  
-•Everyone who wants to go should fill out one of these forms so that the clean up crew knows how much gear to bring for us! [https://docs.google.com/.../1FAIpQLSfVdK6L3JcCl4.../viewform](https://docs.google.com/forms/d/e/1FAIpQLSfVdK6L3JcCl4fK6JQl05L5QQGi-fEF84LYToB3M5pZpeN-6Q/viewform)  
-•Everyone who attends should be in a SNW uniform for this event, weather permitting of course. Bundle up if you must and don't die sweating in that polyester!  
-•Let's start a conversation on positive attitudes, carpooling and meeting spots (there is a map on the website where the Cap'ns of cleanup meet! [https://www.pacificbeachcoalition.org/next-beach-cleanup.../](https://www.pacificbeachcoalition.org/next-beach-cleanup-sharp-park/)).  
-•It is only 9am-11am, PLEASE BE ON TIME! The beach needs us.
-
 ### Stardate 031825: Captain's Log Listen-In Book Club
 **Location:** [Discord](https://discord.gg/butyvBX9xF)  
 **Time:** 7:00 PM  
