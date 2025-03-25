@@ -147,6 +147,16 @@ collections:
   senior_officers:
     output: true
     permalink: /:collection/:path/
+  class_a:
+    output: true
+    permalink: /:collection/:path/
+  class_b:
+    output: true
+    permalink: /:collection/:path/
+    order:
+      - quoia.md
+      - printed.md
+      - patterned.md
 
 # Social Sharing
 twitter:

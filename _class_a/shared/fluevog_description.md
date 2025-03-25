@@ -1,0 +1,1 @@
+These boots are identical to the ones used in Star Trek: Strange New Worlds. There have been some reports that these boots fit tight in the calf and are narrow, though, so be cautious if you believe any of those might be an issue.
