@@ -39,8 +39,20 @@ You can find us on:
 * We also have a [Mailing List](https://groups.google.com/u/0/g/usssequoiacomms), if you're the retro kind of cool. 
 
 ## Upcoming Events
-### Stardate 040425: Discord Hangout
-Join our bi-weekly online hangout where we play games, talk Trek and just generally chit-chat.
+### •Stardate 041325: Star Trek IV: The One with the Whales
+The New Parkway Theater in Oakland will have a showing of Star Trek IV at 12pm! There seems to be lots of parking located within a few blocks. See more about the theater [here](https://www.thenewparkway.com).
 
-### Stardate 042225: TrekTriv @ Mothership Bar
-Come test your Star Trek knowledge once a month at the Mothership Bar to win one of many odd and fascinating prizes. Hang out with the crew of the USS SEQUOIA or make your own team!
+### •Stardate 041925: Ship Event TBA!
+
+### •Stardate 042225: Star Trek Trivia at Mothership Bar.
+Come test your Star Trek knowledge once a month at the [Mothership Bar](https://www.mothershipbar.com/) to win one of many joyfully odd and fascinating prizes. Hang out with the crew of the USS SEQUOIA or make your own team!
+
+### •Stardate 042625: Universal FanFest Nights!
+Join us in Hollywood as we go down to SoCal to visit our fellow fans. [Click this link](https://www.universalstudioshollywood.com/hhn/en/us/things-to-do/events-and-seasonal-activities/fan-fest-nights) to get your tickets, contact us to meet up!
+
+### •Stardate 051025: Unity Day
+What an event this will be. A unique showing of unity and support. Every single ship in THE WHOLE Fleet, is having a Unity Day picnic. We will meet at our favorite San Francisco park (TBA), play games, talk to folks, eat some food, do what we do: simply be awesome in general. Come join us or just come say hi! (Details to follow)
+
+### •Startdate 051725: Board Game Night!
+Your helmsman, Richard has kindly offered his place so that we may have a board game night in Haywayrd!
+
