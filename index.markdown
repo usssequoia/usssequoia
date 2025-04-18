@@ -35,13 +35,12 @@ You can find us on:
 * [BlueSky](https://bsky.app/profile/usssequoia.bsky.social)
 * [Instagram](https://www.instagram.com/usssequoia) 
 * [Facebook](https://www.facebook.com/groups/1354360541894947/)
-* [Discord](https://discord.gg/butyvBX9xF). 
+* [Discord](https://discord.gg/butyvBX9xF)
 * We also have a [Mailing List](https://groups.google.com/u/0/g/usssequoiacomms), if you're the retro kind of cool. 
 
 ## Upcoming Events
-### Stardate 012425-012725: ST:SF
-Creation Entertainment is bringing their Trek Tour convention experience to the Hyatt Burlingame. Come join us for all the fun January 24-27, 2025. The USS Sequoia will have a table at the event for recruitment, so please feel free to stop by and say hello. [Tickets are available here.](https://www.creationent.com/cal/st_sf/index.html)  
+### Stardate 040425: Discord Hangout
+Join our bi-weekly online hangout where we play games, talk Trek and just generally chit-chat.
 
-### Stardate 020825: Napa Lighted Art Festival
-Join the crew in Napa for a tour of the miraculous festival of lights!
-This will be an evening of walking around downtown Napa. Wear warm layers and comfortable shoes, or have your mobility aids at the ready! We will meet at the parking lot by the Oxbow shopping center and head towards Main Street. Trek apparel or uniforms encouraged but not at all required.  
+### Stardate 042225: TrekTriv @ Mothership Bar
+Come test your Star Trek knowledge once a month at the Mothership Bar to win one of many odd and fascinating prizes. Hang out with the crew of the USS SEQUOIA or make your own team!

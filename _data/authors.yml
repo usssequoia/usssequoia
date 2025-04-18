@@ -22,16 +22,20 @@ Isabel Roybal:
 Jocelyn Cliff:
   name        : "Jocelyn Cliff"
   bio         : "First Officer"
-  rank        : "Lieutenant Junior Grade"
+  rank        : "Lieutenant Commander"
   avatar      : "/assets/images/authors/jocelyn_c.jpg"
   home        : /senior_officers/jocelyn_c/
 
 Blair Cliff:
   name        : "Blair Cliff"
   bio         : "Quartermaster"
-  rank        : "Lieutenant Junior Grade"
+  rank        : "Lieutenant"
   avatar      : "/assets/images/authors/blair_c.jpg"
   home        : /senior_officers/blair_c/
+  links:
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/did:plc:irewzskd7ypcve3svfpiiadj"
 
 Tracey Simmons:
   name        : "Tracey Simmons"
