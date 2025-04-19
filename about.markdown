@@ -14,12 +14,12 @@ New Worlds, so our coordinated uniforms and costumes are contemporary with that
 era of Star Trek. However, we enjoy and discuss all eras, so please come join 
 us no matter which trek is your personal favorite!
 
-### Contact Us:
+### Connect with us!:
 
-[Email us here](mailto:{{site.email}}?subject=Hello)
-
-### Links
-
+[Facebook](https://www.facebook.com/groups/1354360541894947)
+[Instagram](https://www.instagram.com/usssequoia)
+[Discord](https://discord.gg/butyvBX9xF)
+[BlueSky](https://bsky.app/profile/usssequoia.bsky.social)
 [Join our mailing list!](mailto:usssequoiacomms+subscribe@googlegroups.com)
 
 ---
