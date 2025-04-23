@@ -46,31 +46,31 @@ You can find us on:
 Join us in Hollywood as we go down to SoCal to visit our fellow fansand fellow ships!! [Click this link](https://www.universalstudioshollywood.com/hhn/en/us/things-to-do/events-and-seasonal-activities/fan-fest-nights) to get your tickets, contact us to meet up and take a group photo!
 
 ### <ins>🚀•Stardate 050225: Discord Hangout</ins>
--When: 7pm
--Where: [Discord](https://discord.gg/butyvBX9xF)
--What: Let's hang out, chit-chat and play some online games! This event is held regularly every two weeks!
+WHEN: 7pm
+WHERE: [Discord](https://discord.gg/butyvBX9xF)
+WHAT: Let's hang out, chit-chat and play some online games! This event is held regularly every two weeks!
 
 ### <ins>🚀•Stardate 050625: Star Trek Trivia</ins>
--When: 7pm-9pm
--Where: 3152 Mission St. [Mothership Bar](https://www.mothershipbar.com)
--What: We test our Star Trek knowledge with the finest nerds in the land! There is a food truck, restrooms and drinks. I suggest bringing a stool to sit on, seating is VERY limited!
+WHEN: 7pm-9pm
+WHERE: 3152 Mission St. [Mothership Bar](https://www.mothershipbar.com)
+WHAT: We test our Star Trek knowledge with the finest nerds in the land! There is a food truck, restrooms and drinks. I suggest bringing a stool to sit on, seating is VERY limited!
 
 ### <ins>🚀•Stardate 051025: Unity Day</ins>
--When: 1-4pm
--Where: Tunnel Tops-Presidio
--What: A unique showing of unity and support. Every single ship in THE WHOLE Fleet, is having a Unity Day picnic. We will meet up, play games, talk to folks, eat some food, do what we do: simply be awesome in general. Come join us and bring something fun to do or just come say hi, sit and talk!
+WHEN: 1-4pm
+WHERE: Tunnel Tops-Presidio
+WHAT: A unique showing of unity and support. Every single ship in THE WHOLE Fleet, is having a Unity Day picnic. We will meet up, play games, talk to folks, eat some food, do what we do: simply be awesome in general. Come join us and bring something fun to do or just come say hi, sit and talk!
 
 ### <ins>🚀•Stardate 051625: Discord Hangout</ins>
--When: 7pm
--Where: [Discord](https://discord.gg/butyvBX9xF)
--What: Let's hang out, chit-chat and play some online games! This event is held regularly every two weeks!
+WHEN: 7pm
+WHERE: [Discord](https://discord.gg/butyvBX9xF)
+WHAT: Let's hang out, chit-chat and play some online games! This event is held regularly every two weeks!
 
 ### <ins>🚀•Startdate 051725: Board Game Night!</ins>
 Your helmsman, Richard has kindly offered his place so that we may have a board game night in Hayward! (Contact for details)
 
 ### <ins>🚀•Stardate 053025: Discord Hangout</ins>
--When: 7pm
--Where: [Discord](https://discord.gg/butyvBX9xF)
--What: Let's hang out, chit-chat and play some online games! This event is held regularly every two weeks!
+WHEN: 7pm
+WHERE: [Discord](https://discord.gg/butyvBX9xF)
+WHAT: Let's hang out, chit-chat and play some online games! This event is held regularly every two weeks!
 
 ### Please [message us](https://groups.google.com/u/0/g/usssequoiacomms) if you are interested in attending any of these events or have any questions in general!
