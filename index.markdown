@@ -28,8 +28,8 @@ Do you want to get in costume and trek out with your fellow fans?
 {: centered_big}
 
 Then this is the group for you! To "join" the crew, simply come to the events! You can earn rank and move up if you want. The best part: it's always free! No club dues ever!
-You'll find the details of each event via Facebook, Discord, or mailing list reply only. The ship does fun things like in-person and virtual movie nights, game nights, craft days, monument visits, camping trips, holiday parties, dinners, festivals, charity events, etc...
-We will be boldly adventure through frontiers of costuming, fandom and charity.
+You'll find the details of each event below. The ship does fun things like movie viewings, game nights, craft days, monument visits, camping trips, holiday parties, dinners, festivals, charity events, etc... But we also do some online stuff like game and movie nights so that anyone can be involved.
+We will be boldly adventure through the frontiers of costuming, fandom and charity.
 Let's go!!!! 
 
 You can find us on:
@@ -42,25 +42,35 @@ You can find us on:
 
 ## Upcoming Events
 
-### <ins>🚀•Stardate 041825: Discord Hangout</ins>
-Join our bi-weekly online hangout where we play games, talk Trek and just generally chit-chat.
-
-### <ins>🚀•Stardate 041925: Mitchell's Ice Cream</ins>
-Let's try some yummy flavors at the historic ice cream shop [Mitchell's](https://mitchellsicecream.com/). Bundle up, jump on the BART and come hang out with us and maybe take a pint home!
-
-### <ins>🚀•Stardate 042225: Star Trek Trivia at Mothership Bar</ins>
-Come test your Star Trek knowledge once a month at the [Mothership Bar](https://www.mothershipbar.com/) to win one of many joyfully odd and fascinating prizes. Hang out with the crew of the USS SEQUOIA or make your own team!
-
 ### <ins>🚀•Stardate 042625: Universal FanFest Nights!</ins>
-Join us in Hollywood as we go down to SoCal to visit our fellow fansand fellow ships!! [Click this link](https://www.universalstudioshollywood.com/hhn/en/us/things-to-do/events-and-seasonal-activities/fan-fest-nights) to get your tickets, contact us to meet up!
+Join us in Hollywood as we go down to SoCal to visit our fellow fansand fellow ships!! [Click this link](https://www.universalstudioshollywood.com/hhn/en/us/things-to-do/events-and-seasonal-activities/fan-fest-nights) to get your tickets, contact us to meet up and take a group photo!
+
+### <ins>🚀•Stardate 050225: Discord Hangout</ins>
+-When: 7pm
+-Where: [Discord](https://discord.gg/butyvBX9xF)
+-What: Let's hang out, chit-chat and play some online games! This event is held regularly every two weeks!
+
+### <ins>🚀•Stardate 050625: Star Trek Trivia</ins>
+-When: 7pm-9pm
+-Where: 3152 Mission St. [Mothership Bar](https://www.mothershipbar.com)
+-What: We test our Star Trek knowledge with the finest nerds in the land! There is a food truck, restrooms and drinks. I suggest bringing a stool to sit on, seating is VERY limited!
 
 ### <ins>🚀•Stardate 051025: Unity Day</ins>
-What an event this will be. A unique showing of unity and support. Every single ship in THE WHOLE Fleet, is having a Unity Day picnic. We will meet at our favorite San Francisco park (TBA), play games, talk to folks, eat some food, do what we do: simply be awesome in general. Come join us or just come say hi! (Details to follow)
+-When: 1-4pm
+-Where: Tunnel Tops-Presidio
+-What: A unique showing of unity and support. Every single ship in THE WHOLE Fleet, is having a Unity Day picnic. We will meet up, play games, talk to folks, eat some food, do what we do: simply be awesome in general. Come join us and bring something fun to do or just come say hi, sit and talk!
+
+### <ins>🚀•Stardate 051625: Discord Hangout</ins>
+-When: 7pm
+-Where: [Discord](https://discord.gg/butyvBX9xF)
+-What: Let's hang out, chit-chat and play some online games! This event is held regularly every two weeks!
 
 ### <ins>🚀•Startdate 051725: Board Game Night!</ins>
-Your helmsman, Richard has kindly offered his place so that we may have a board game night in Haywayrd!
+Your helmsman, Richard has kindly offered his place so that we may have a board game night in Hayward! (Contact for details)
 
-### <ins>🚀•Stardate 042225: TrekTriv @ Mothership Bar</ins>
-Come test your Star Trek knowledge once a month at the Mothership Bar to win one of many odd and fascinating prizes. Hang out with the crew of the USS SEQUOIA or make your own team!
+### <ins>🚀•Stardate 053025: Discord Hangout</ins>
+-When: 7pm
+-Where: [Discord](https://discord.gg/butyvBX9xF)
+-What: Let's hang out, chit-chat and play some online games! This event is held regularly every two weeks!
 
-### Please [contact us](https://groups.google.com/u/0/g/usssequoiacomms) if you are interested in attending any of these events.
+### Please [message us](https://groups.google.com/u/0/g/usssequoiacomms) if you are interested in attending any of these events or have any questions in general!
