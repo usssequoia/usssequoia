@@ -103,6 +103,7 @@ Props are not included in any uniform requirements. The following links and desc
 
 #### Blood Sampler Hypospray:
 
+* [Tankz3dTavern](https://www.etsy.com/listing/1887655660/star-trek-strange-new-worlds-blood)
 * [LimeyBuilds 3d print files](https://cults3d.com/en/3d-model/gadget/strange-new-worlds-blood-sampler-hypo)
 
 #### Memorial Pin:
