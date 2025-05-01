@@ -8,8 +8,8 @@ Isabel Roybal:
   rank        : "Captain"
   home        : /senior_officers/isabel_r/
   avatar      : "/assets/images/authors/isabel_r.jpg"
- links:
-- label: "Website"
+  links:
+    - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https:www.instagran.com/mermaidofgolosprime"
 
