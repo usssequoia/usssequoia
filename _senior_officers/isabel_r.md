@@ -1,6 +1,6 @@
 ---
 date: 2024-10-21T17:50:47-08:00
-title: Isabel Roybal, Commander
+title: Isabel Roybal, Captain
 author: "Isabel Roybal"
 ---
 
