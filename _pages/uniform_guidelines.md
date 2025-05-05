@@ -98,6 +98,7 @@ Props are not included in any uniform requirements. The following links and desc
 
 #### Hypospray:
 
+* [Tankz3dTavern](https://www.etsy.com/listing/4299827421/star-trek-strange-new-worlds-hypospray)
 * [LimeyBuilds 3d print files](https://cults3d.com/en/3d-model/gadget/strange-new-worlds-hypospray-star-trek)  
 * [Ben Shepperson's 3d print files](https://www.printables.com/model/506960-hypospray-star-trek-snw)
 
