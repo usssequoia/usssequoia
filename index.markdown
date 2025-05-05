@@ -42,11 +42,6 @@ You can find us on:
 
 ## Upcoming Events
 
-### <ins>🚀•Stardate 050225: Discord Hangout</ins>
-WHEN: 7pm  
-WHERE: [Discord](https://discord.gg/butyvBX9xF)  
-WHAT: Let's hang out, chit-chat and play some online games! This event is held regularly every two weeks!
-
 ### <ins>🚀•Stardate 050625: Star Trek Trivia</ins>
 WHEN: 7pm-9pm  
 WHERE: 3152 Mission St. [Mothership Bar](https://www.mothershipbar.com)  
@@ -55,19 +50,22 @@ WHAT: We test our Star Trek knowledge with the finest nerds in the land! There i
 ### <ins>🚀•Stardate 051025: Unity Day</ins>
 WHEN: 1-4pm  
 WHERE: Tunnel Tops-Presidio  
-WHAT: A unique showing of unity and support. Every single ship in THE WHOLE Fleet, is having a Unity Day picnic. We will meet up, play games, talk to folks, eat some food, do what we do: simply be awesome in general. Come join us and bring something fun to do or just come say hi, sit and talk!
+WHAT: A unique showing of unity and support. Every single ship in THE WHOLE Fleet, is having a Unity Day picnic. We will meet up, play games, talk to folks, eat some food, do what we do: simply be awesome in general. Come join us on the Picnic Place lawn and bring something fun to do or just come say hi, sit and talk!
 
 ### <ins>🚀•Stardate 051625: Discord Hangout</ins>
+WHEN: 7pm  
+WHERE: [Discord](https://discord.gg/butyvBX9xF)  
+WHAT: Let's hang out, chit-chat and play some online games! This event is held regularly every two weeks!  
+
+### <ins>🚀•Stardate 051825: Ship Movie Night</ins>  
+Jump on the [Discord](https://discord.gg/butyvBX9xF) to watch the latest movie pick from our host Lawrence!  
+
+### <ins>🚀•Stardate 053025: Discord Hangout</ins>
 WHEN: 7pm  
 WHERE: [Discord](https://discord.gg/butyvBX9xF)  
 WHAT: Let's hang out, chit-chat and play some online games! This event is held regularly every two weeks!
 
 ### <ins>🚀•Startdate 053125: Board Game Night!</ins>
 (Date updated!) Your helmsman, Richard has kindly offered his place so that we may have a board game night in Hayward! (Contact for details)
-
-### <ins>🚀•Stardate 053025: Discord Hangout</ins>
-WHEN: 7pm  
-WHERE: [Discord](https://discord.gg/butyvBX9xF)  
-WHAT: Let's hang out, chit-chat and play some online games! This event is held regularly every two weeks!
 
 ### Please [message us](https://groups.google.com/u/0/g/usssequoiacomms) if you are interested in attending any of these events or have any questions in general!
