@@ -42,16 +42,6 @@ You can find us on:
 
 ## Upcoming Events
 
-### <ins>🚀•Stardate 050625: Star Trek Trivia</ins>
-WHEN: 7pm-9pm  
-WHERE: 3152 Mission St. [Mothership Bar](https://www.mothershipbar.com)  
-WHAT: We test our Star Trek knowledge with the finest nerds in the land! There is a food truck, restrooms and drinks. I suggest bringing a stool to sit on, seating is VERY limited!
-
-### <ins>🚀•Stardate 051025: Unity Day</ins>
-WHEN: 1-4pm  
-WHERE: Tunnel Tops-Presidio  
-WHAT: A unique showing of unity and support. Every single ship in THE WHOLE Fleet, is having a Unity Day picnic. We will meet up, play games, talk to folks, eat some food, do what we do: simply be awesome in general. Come join us on the Picnic Place lawn and bring something fun to do or just come say hi, sit and talk!
-
 ### <ins>🚀•Stardate 051625: Discord Hangout</ins>
 WHEN: 7pm  
 WHERE: [Discord](https://discord.gg/butyvBX9xF)  
