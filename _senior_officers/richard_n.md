@@ -1,5 +1,5 @@
 ---
-date: 2025-05-21T17:21:42-08:00
+date: 2025-05-21T10:21:42-08:00
 title: Richard Newton, Chief Navigation Officer
 published: false
 ---
