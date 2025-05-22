@@ -18,6 +18,8 @@ main:
     url: /senior_officers/
   - title: "Uniform Guidelines"
     url: /uniforms/
+  - title: "Rank & Promotion"
+    url: /rank/
   - title: "The Fleet"
     url: https://startrekthefleet.weebly.com
     target: _blank
