@@ -42,20 +42,12 @@ You can find us on:
 
 ## Upcoming Events
 
-### <ins>🚀•Stardate 051625: Discord Hangout</ins>
-WHEN: 7pm  
-WHERE: [Discord](https://discord.gg/butyvBX9xF)  
-WHAT: Let's hang out, chit-chat and play some online games! This event is held regularly every two weeks!  
-
-### <ins>🚀•Stardate 051825: Ship Movie Night</ins>  
-Jump on the [Discord](https://discord.gg/butyvBX9xF) to watch the latest movie pick from our host Lawrence!  
-
 ### <ins>🚀•Stardate 053025: Discord Hangout</ins>
 WHEN: 7pm  
 WHERE: [Discord](https://discord.gg/butyvBX9xF)  
 WHAT: Let's hang out, chit-chat and play some online games! This event is held regularly every two weeks!
 
 ### <ins>🚀•Startdate 053125: Board Game Night!</ins>
-(Date updated!) Your helmsman, Richard has kindly offered his place so that we may have a board game night in Hayward! (Contact for details)
+Your helmsman, Richard has kindly offered his place so that we may have a board game night in Hayward! (Contact for location details)
 
 ### Please [message us](https://groups.google.com/u/0/g/usssequoiacomms) if you are interested in attending any of these events or have any questions in general!
