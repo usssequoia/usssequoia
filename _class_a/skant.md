@@ -5,6 +5,7 @@ layout: single
 author_profile: true
 share: true
 comments: true
+excerpt: "As frequently worn by Commander Una and Cadet/Ensign Uhura"
 ---
 
 There are no restrictions on this uniform variant.

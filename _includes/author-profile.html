@@ -15,16 +15,26 @@
     <h3 class="author__name p-name" itemprop="name">
       <a class="u-url" rel="me" href="{{ author.home | default: '/' | absolute_url }}" itemprop="url">{{ author.name }}</a>
     </h3>
+    <div class="author__bio p-note" itemprop="description">
     {% if author.bio %}
-      <div class="author__bio p-note" itemprop="description">
-        {{ author.bio | markdownify }}
-      </div>
+        Role: {{ author.bio | markdownify }}
     {% endif %}
     {% if author.rank %}
-    <div class="author__bio p-note" itemprop="description">
-      {{ author.rank | markdownify }}
+      Rank: {{ author.rank | markdownify }}
+    {% endif %}
+    {% if author.svc_num %}
+      Service Number: {{ author.svc_num | markdownify }}
+    {% endif %}
+    {% if author.quarters %}
+      Quarters: {{ author.quarters | markdownify }}
+    {% endif %}
+    {% if author.pronouns %}
+      Pronouns: {{ author.pronouns | markdownify }}
+    {% endif %}
+    {% if author.birthdate %}
+      Birth Date: {{ author.birthdate | markdownify }}
+    {% endif %}
     </div>
-  {% endif %}
   </div>
 
   <div class="author__urls-wrapper">

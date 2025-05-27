@@ -5,6 +5,7 @@ layout: single
 author_profile: true
 share: true
 comments: true
+excerpt: "As worn by Commander M'Benga"
 ---
 
 This uniform is typically reserved for members who are in the Medical division. However, this is not a strict restriction.

@@ -5,6 +5,7 @@ layout: single
 author_profile: true
 share: true
 comments: true
+excerpt: "As worn by Cadet Uhura in SNW S1E2 'Children of the Comet"
 ---
 
 Use of this uniform is typically reserved for formal charity events and any other costumed events where an extra degree of formality would be appropriate.

@@ -5,6 +5,7 @@ layout: single
 author_profile: true
 share: true
 comments: true
+excerpt: "The uniform seen on most characters in SNW"
 ---
 
 There are no restrictions on this uniform variant.

@@ -5,6 +5,7 @@ layout: single
 author_profile: true
 share: true
 comments: true
+excerpt: "As worn by Una, Spock, La'An, and M'Benga in SNW S2E2 'Ad Astra per Aspera'"
 ---
 
 Use of this uniform is typically reserved for formal charity events and any other costumed events where an extra degree of formality would be appropriate.

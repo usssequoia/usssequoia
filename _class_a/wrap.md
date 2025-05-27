@@ -5,6 +5,7 @@ layout: single
 author_profile: true
 share: true
 comments: true
+excerpt: "As worn by Captain Pike"
 ---
 
 This uniform is restricted. It may be worn by the Commanding Officer of the USS Sequoia (Isabel Roybal) as well as other officers from other ships in The Fleet who are either commanding officers of their own ships or have the rank of Captain or higher. Other usage is subject to approval by the Commanding Officer of the USS Sequoia (or another officer if delegated).
