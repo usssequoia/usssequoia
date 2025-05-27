@@ -5,6 +5,7 @@ layout: single
 author_profile: true
 share: true
 comments: true
+excerpt: "As worn by Nurse Chapel"
 ---
 
 This uniform is typically reserved for members who are in the Medical division. However, this is not a hard restriction.

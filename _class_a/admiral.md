@@ -1,6 +1,11 @@
 ---
 title: Admiral Uniform
 author: Blair Cliff
+layout: single
+author_profile: true
+share: true
+comments: true
+excerpt: "As worn by Admiral Robert April"
 ---
 
 This uniform is restricted. It may be worn by officers within The Fleet who are a part of the admiralty. Other usage is subject to approval by the Commanding Officer of the USS Sequoia (or another officer if delegated).

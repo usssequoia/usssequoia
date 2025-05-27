@@ -4,10 +4,12 @@
 
 Isabel Roybal:
   name        : "Isabel Roybal"
-  bio         : "Captain & Communications Officer"
+  bio         : "Commanding Officer & Communications Officer"
   rank        : "Captain"
   home        : /senior_officers/isabel_r/
   avatar      : "/assets/images/authors/isabel_r.jpg"
+  svc_num     : "SC0185-9342SHN"
+  quarters    : "S2-A01"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -17,20 +19,32 @@ Jocelyn Cliff:
   name        : "Jocelyn Cliff"
   bio         : "First Officer"
   rank        : "Lieutenant Commander"
+  svc_num     : "SH0783-0915CMS"
+  quarters    : "S2-A02"
   avatar      : "/assets/images/authors/jocelyn_c.jpg"
   home        : /senior_officers/jocelyn_c/
 
 Blair Cliff:
   name        : "Blair Cliff"
-  bio         : "Quartermaster"
+  bio         : "Quartermaster & Chief Historian"
   rank        : "Lieutenant"
+  svc_num     : "SC0672-0259CEC"
+  quarters    : "S2-A02"
   avatar      : "/assets/images/authors/blair_c.jpg"
+  pronouns    : "he/him"
+  birthdate   : "August 30"
   home        : /senior_officers/blair_c/
+  links:
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/did:plc:irewzskd7ypcve3svfpiiadj"
 
 Tracey Simmons:
   name        : "Tracey Simmons"
-  bio         : "Chief Medical Officer"
+  bio         : "Chief Medical Officer & Chief Science Officer"
   rank        : "Lieutenant Junior Grade"
+  svc_num     : "S 246-813 SP"
+  quarters    : "S2-A04"
   avatar      : "/assets/images/authors/tracey_s.jpg"
   home        : /senior_officers/tracey_s/
   links:
@@ -47,17 +61,24 @@ Tracey Simmons:
 Kenzy Coane:
   name        : "Kenzy Coane"
   bio         : "Chief Engineer"
+  svc_num     : "SFB721-0538"
+  quarters    : "S2-A05"
   rank        : "Lieutenant Junior Grade"
   home        : /senior_officers/kenzy_c/
 
 Lawrence Chin:
   name        : "Lawrence Chin"
-  bio         : "Chief Operations Officer"
+  bio         : "Chief Operations Officer & Second Officer"
   rank        : "Lieutenant"
+  svc_num     : "SC0456-0783SHN"
+  quarters    : "S2-A03"
+  avatar      : "/assets/images/authors/lawrence_c.jpg"
   home        : /senior_officers/lawrence_c/
 
 Richard Newton:
   name        : "Richard Newton"
   bio         : "Helmsman"
   rank        : "Lieutenant Junior Grade"
+  svc_num     : "SFA112-0893CDT"
+  quarters    : "S3-A07"
   home        : /senior_officers/richard_n/

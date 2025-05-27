@@ -5,6 +5,7 @@ layout: single
 author_profile: true
 share: true
 comments: true
+excerpt: "As worn by Chief Kyle"
 ---
 
 This uniform is not restricted. Due to the conflicting nature of this uniform within The Fleet (a member with a matching uniform would not be considered Enlisted) and the difficulty in obtaining it, usage of this uniform variant is not recommended.

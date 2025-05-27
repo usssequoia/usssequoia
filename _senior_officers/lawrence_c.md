@@ -1,6 +1,6 @@
 ---
 date: 2025-05-21T10:18:15-08:00
-title: Lawrence Chin, Chief Operations Officer (Second Officer)
+title: Lawrence Chin, Chief Operations Officer
 author: Lawrence Chin
 ---
 
