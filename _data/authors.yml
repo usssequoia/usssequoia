@@ -22,6 +22,8 @@ Jocelyn Cliff:
   svc_num     : "SH0783-0915CMS"
   quarters    : "S2-A02"
   avatar      : "/assets/images/authors/jocelyn_c.jpg"
+  pronouns    : "she/her"
+  birthdate   : "April 27"
   home        : /senior_officers/jocelyn_c/
 
 Blair Cliff:
@@ -68,7 +70,7 @@ Kenzy Coane:
 
 Lawrence Chin:
   name        : "Lawrence Chin"
-  bio         : "Chief Operations Officer & Second Officer"
+  bio         : "Second Officer & Chief Operations Officer"
   rank        : "Lieutenant"
   svc_num     : "SC0456-0783SHN"
   quarters    : "S2-A03"

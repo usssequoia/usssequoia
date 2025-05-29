@@ -12,4 +12,4 @@ I was born and raised in the Bay Area, and am the fourth generation of my family
 09/21/2024: Assigned as USS Sequoia Chief Medical Officer  
 09/29/2024: Promoted to Lieutenant Junior Grade  
 03/27/2025: Received Starfleet Medal of Commendation from Captain Isabel Roybal  
-04/22/2025: Assigned as USS Sequoia Chief Science Officer in addition to Chief Medical Officer
+04/22/2025: Assigned as USS Sequoia Chief Science Officer in addition to current duties  

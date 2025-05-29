@@ -15,3 +15,4 @@ Hello! My name is Blair Cliff, and I'm the Quartermaster for USS Sequoia. I'm fr
 09/21/2024: Assigned as USS Sequoia Quartermaster  
 09/29/2024: Promoted to Lieutenant Junior Grade  
 03/27/2025: Promoted to Lieutenant  
+05/27/2025: Assigned as USS Sequoia Chief Historian in addition to current duties  

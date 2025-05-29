@@ -1,6 +1,6 @@
 ---
 date: 2025-05-21T10:18:15-08:00
-title: Lawrence Chin, Chief Operations Officer
+title: Lawrence Chin, Second Officer
 author: Lawrence Chin
 ---
 
@@ -16,4 +16,4 @@ I was raised in the San Francisco Bay Area and am a Second-generation California
 06/27/2023: Assigned as USS Ocusa Chief of Engineering  
 05/03/2024: Promoted to Lieutenant  
 09/21/2024: Transferred to USS Sequoia  
-09/21/2024: Assigned as USS Sequoia Second Officer and Operations Senior Officer  
+09/21/2024: Assigned as USS Sequoia Second Officer and Chief Operations Officer  
