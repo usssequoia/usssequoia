@@ -42,12 +42,20 @@ You can find us on:
 
 ## Upcoming Events
 
-### <ins>🚀•Stardate 053025: Discord Hangout</ins>
+### <ins>🚀•Stardate 062025: Discord Hangout</ins>
 WHEN: 7pm  
 WHERE: [Discord](https://discord.gg/butyvBX9xF)  
 WHAT: Let's hang out, chit-chat and play some online games! This event is held regularly every two weeks!
 
-### <ins>🚀•Startdate 053125: Board Game Night!</ins>
-Your helmsman, Richard has kindly offered his place so that we may have a board game night in Hayward! (Contact for location details)
+### <ins>🚀•Startdate 062825: Bowling!</ins>
+Let's get things rolling!! Bowling alley tba.
+
+### <ins>🚀•Stardate 070425: Discord Hangout</ins>
+WHEN: 7pm  
+WHERE: [Discord](https://discord.gg/butyvBX9xF)  
+WHAT: Let's hang out, chit-chat and play some online games! This event is held regularly every two weeks!(May be rescheduled due to holiday.)
+
+### <ins>🚀•Startdate 070525: Rock Climbing!</ins>
+Hear me out! This may not be your thing but I think it will be fun anyways! Come for the controlled absent, stay for the snacks and laughs. Rock TBA.
 
 ### Please [message us](https://groups.google.com/u/0/g/usssequoiacomms) if you are interested in attending any of these events or have any questions in general!
