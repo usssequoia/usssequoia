@@ -30,11 +30,11 @@ A member who has already been promoted up to <span style="white-space: no-wrap">
 
 # Merit-based Ranks
 
-*Promotion beyond any of the above automatic ranks depends on whether you own a uniform in the <span style="white-space: no-wrap">Strange New Worlds</span> style that meets <span style="white-space: no-wrap">USS Sequoia</span> guidelines. Members without a uniform will be promoted along the Enlisted track:*
+*Promotion beyond any of the above automatic ranks depends on whether you own a Class A Uniform (see: [Uniform Guidelines]({% link _pages/uniform_guidelines.md %})) in the <span style="white-space: no-wrap">Strange New Worlds</span> style that meets <span style="white-space: no-wrap">USS Sequoia</span> guidelines. Members without a Class A Uniform will be promoted along the Enlisted track:*
 
 Crewman (Third Class) > Crewman (Second Class) > Crewman (First Class) > Petty Officer > Chief Petty Officer
 
-*Members with a uniform will be promoted along the Officer track:*
+*Members with a Class A Uniform will be promoted along the Officer track:*
 
 Crewman (Third Class) > Ensign > Lieutenant Junior Grade > Lieutenant > Lieutenant Commander > Commander > Captain
 
@@ -56,7 +56,7 @@ Crewman (Third Class) > Ensign > Lieutenant Junior Grade > Lieutenant > Lieutena
 {% include_relative /_ranks/ltcmdr.html %}
 {% include_relative /_ranks/padd2.html %}
 
-*<center>The enlisted track ends at this point. You must have a qualifying uniform for promotion to any higher ranks</center>*
+*<center>The enlisted track ends at this point. You must have a qualifying Class A Uniform for promotion to any higher ranks</center>*
 
 {% include_relative /_ranks/padd1.html %}
 {% include_relative /_ranks/cmdr.html %}
