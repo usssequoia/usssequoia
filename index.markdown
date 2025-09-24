@@ -42,21 +42,19 @@ You can find us on:
 
 ## Upcoming Events
 
-### <ins>🚀•Stardate 081525: Discord Hangout•🚀</ins>
+### <ins>🚀•Stardate 092625: Discord Hangout•🚀</ins>
 WHEN: 7pm  
-WHERE: [Discord](https://discord.gg/butyvBX9xF)  
-WHAT: Let's hang out, chit-chat and play some online games! This event is held regularly every two weeks!
+WHERE: [Discord](https://discord.gg/butyvBX9xF)
+WHAT: A bi-weekly gathering. We'll chit chat, talk about episodes and play some games!
 
-### <ins>🚀•Startdate 081625: GalaxyCon!•🚀</ins>
-WHEN: All Day  
-WHERE: McEnry Convention Center  
-WHAT: Cosplay, celebrities and a galaxy of events and programming Saturday and Sunday.  
+### <ins>🚀•Stardate 092725: FogFest•🚀</ins>
+WHEN: 12pm  
+WHERE: Family Fun Fest on Palmetto  
+WHAT: Let's hang out, spread the Trek love and see what FogFest has to offer!
 
-### <ins>🚀•Startdate 082325: Craft Day!•🚀</ins>
-WHEN: 1pm  
-WHERE: Cap'ns Quarters  
-WHAT: Bring your WIP’s, tiny crafts, crayons or puzzles to a craft day in Cotati!
-Come see my new place, catch up with Riker, have some snacks and work on some fun stuff Star Trek-related or not!!
-*address privately disclosed closer to event date*
+### <ins>🚀•Startdate 100725: TrekTriv•🚀</ins>
+WHEN: 7pm  
+WHERE: Mothership Bar in SF    
+WHAT: Test your skills and knowledge in this challenging monthly game of trivia! This one will have a costume contest so come dressed to impress!!  
 
 ### Please [message us](https://groups.google.com/u/0/g/usssequoiacomms) if you are interested in attending any of these events or have any questions in general!
