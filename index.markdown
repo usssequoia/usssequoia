@@ -42,17 +42,12 @@ You can find us on:
 
 ## Upcoming Events
 
-### <ins>🚀•Stardate 092625: Discord Hangout•🚀</ins>
+### <ins>🚀•Stardate 102425: Discord Hangout•🚀</ins>
 WHEN: 7pm  
-WHERE: [Discord](https://discord.gg/butyvBX9xF)
-WHAT: A bi-weekly gathering. We'll chit chat, talk about episodes and play some games!
+WHERE: [Discord](https://discord.gg/butyvBX9xF)  
+WHAT: A bi-weekly gathering. We'll chit chat, talk about episodes and play some games!  
 
-### <ins>🚀•Stardate 092725: FogFest•🚀</ins>
-WHEN: 12pm  
-WHERE: Family Fun Fest on Palmetto  
-WHAT: Let's hang out, spread the Trek love and see what FogFest has to offer!
-
-### <ins>🚀•Startdate 100725: TrekTriv•🚀</ins>
+### <ins>🚀•Startdate 110425: TrekTriv•🚀</ins>
 WHEN: 7pm  
 WHERE: Mothership Bar in SF    
 WHAT: Test your skills and knowledge in this challenging monthly game of trivia! This one will have a costume contest so come dressed to impress!!  
