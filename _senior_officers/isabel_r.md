@@ -1,6 +1,6 @@
 ---
 date: 2025-05-21T10:08:47-08:00
-title: Isabel Roybal, Captain
+title: Isabel Roybal, Commanding Officer
 author: "Isabel Roybal"
 ---
 
@@ -13,5 +13,6 @@ Late 2023, my dog Riker and I set out and headed North to create a bold new life
 06/16/2024: Joined USS Falcon Crest  
 09/21/2024: Promoted to Commander  
 09/21/2024: Transferred to USS Sequoia  
-09/21/2024: Assigned as USS Sequoia Commanding Officer and Communications Senior Officer  
+09/21/2024: Assumed command of USS Sequoia
+09/21/2024: Assumed the role of Chief Communications Officer in addition to current duties  
 03/21/2025: Promoted to Captain  
