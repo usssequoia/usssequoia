@@ -6,7 +6,7 @@ permalink: /uniforms/
 
 Each chapter of The Fleet represents a different uniform style within the Starfleet side of the Star Trek Multiverse. The crew of the U.S.S. Sequoia has chosen the style of the Star Trek: Strange New Worlds uniform to represent their ship. 
 
-Even though costuming is one of our club's core values, it is not required to have or wear a uniform to join our Fleet or participate in most events (excluding rare events that specifically call for a uniform). However, ownership of a uniform that meets the listed standard is required to be promoted along the Commissioned Officer track (see: Rank). Members who do not own such a uniform are still eligible to be promoted along the Enlisted track.
+Even though costuming is one of our club's core values, it is not required to have or wear a uniform to join our Fleet or participate in most events (excluding rare events that specifically call for a uniform). However, ownership of a uniform that meets the listed standard is required to be promoted along the Commissioned Officer track (see: [Rank]({% link _pages/rank.md %})). Members who do not own such a uniform are still eligible to be promoted along the Enlisted track.
 
 The Fleet, USS Sequoia, and its members are not sponsored or endorsed by any of the vendors listed in the following guidelines, nor does The Fleet or USS Sequoia necessarily endorse any of the listed vendors or the quality of the product.  We are only providing an option for our members to obtain an item of consistent quality to build their uniform.  Should you have any questions, please reach out to the ship's Quartermaster, any of the ship's Executive Team, or use the Contact Us link on this site.
 
@@ -60,7 +60,7 @@ Props are not included in any uniform requirements. The following links and desc
 * [3d print files: LimeyBuilds](https://www.cgtrader.com/3d-print-models/hobby-diy/other/strange-new-worlds-communicator-star-trek)
 
 #### PADD:
-* [3d print files: UnimatriRed](https://www.printables.com/model/986491-star-trek-snw-padd)
+* [3d print files: UnimatrixRed](https://www.printables.com/model/986491-star-trek-snw-padd)
 
 #### Field Jacket:
 
@@ -75,6 +75,7 @@ Props are not included in any uniform requirements. The following links and desc
 * Excellent Leather Shop  
   * [Male cut](https://excellentleathershop.com/product/warrior-leather-jacket/)  
   * [Female cut](https://excellentleathershop.com/product/womens-away-leather-jacket-elstsmj1082/)
+* [Asal Vision](https://asalvision.com/product/star-trek-strange-new-worlds-leather-jacket/)
 
 #### Field Jacket Shoulder Light:
 
